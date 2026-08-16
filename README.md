@@ -10,9 +10,12 @@
   <a href="mailto:kuruvasurendra05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br/>
+<!-- Animated Typewriter Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Grade+LLM+Pipelines;Specialized+in+RAG%2C+Agents%2C+and+DeepEval;Developing+Predictive+ML+%26+Quant+Analytics;Scaling+APIs+with+Python%2C+FastAPI+%26+Docker" alt="Typing SVG" />
+</p>
 
-<!-- Active Streak & Profile Metrics Cards -->
+<!-- High-Reliability Streak & Contribution Activity Cards -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Surendra571&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surendra571&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="48%" />
@@ -35,8 +38,11 @@ I build intelligent, production-ready systems combining **Generative AI, Multi-A
 
 ### 🛠️ Technical Arsenal
 
-* **Languages & Core:** Python, SQL, JavaScript/TypeScript[cite: 2]
-* **GenAI & Agents:** LangChain, LangGraph, CrewAI, LlamaIndex, FAISS, Sentence-Transformers, DeepEval, RAGAS[cite: 2]
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,git,github,pytorch,sklearn,js,ts,vscode,linux" />
+</p>
+
+* **GenAI & Agents:** LangChain, LangGraph, CrewAI, LlamaIndex, DeepEval, RAGAS, FAISS, Sentence-Transformers[cite: 2]
 * **LLM Integrations:** OpenAI API, Google Gemini API, Groq (LLaMA 3.3)[cite: 2]
 * **Machine Learning & Stats:** Scikit-Learn, PyTorch, XGBoost, Statsmodels, SciPy, A/B Testing, Time-Series[cite: 1, 2]
 * **Backend & DevOps:** FastAPI, Django REST Framework, PostgreSQL, SQLite, SQLAlchemy, Docker, Docker Compose, Pytest[cite: 1, 2]
