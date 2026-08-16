@@ -2,48 +2,60 @@
 
 # Hi there, I'm Kuruva Surendra Kumar 👋
 
-### AI Engineer & Data Scientist | LLMs, RAG, Multi-Agent Systems & Predictive ML
+### AI Engineer & Data Scientist | LLMs, Multi-Agent Systems & Predictive ML
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surendra571"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://surendra571.itsfolio.tech"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ksurendraa1.4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/surendra571"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://surendra571.itsfolio.tech"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:kuruvasurendra05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- GitHub Stats & Top Languages -->
+<br/>
+
+<!-- Active Streak & Profile Metrics Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surendra571&show_icons=true&theme=tokyonight&hide_border=false" alt="Surendra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra571&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Surendra571&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surendra571&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="48%" />
 </p>
 
 </div>
 
 ---
 
-### 📌 About Me
+### 🚀 About Me
 
-I specialize in building production-grade **LLM applications, autonomous multi-agent workflows, and predictive machine learning platforms**[cite: 1, 2]. My background bridges computer science, AI engineering, and quantitative analytics[cite: 1, 2].
+I build intelligent, production-ready systems combining **Generative AI, Multi-Agent architectures, and predictive analytics**[cite: 1, 2]. My background bridges scalable backend engineering and quantitative machine learning[cite: 1, 2].
 
-* 🔭 **Currently building:** Enterprise LLM evaluation pipelines (DeepEval, RAGAS), multi-agent architectures (CrewAI), and graph-based RAG query systems[cite: 2].
-* ⚙️ **Core Focus:** Guardrails & evaluation metrics (hallucination/bias detection), semantic vector search (FAISS), and reproducible data pipelines[cite: 1, 2].
-* 📊 **Machine Learning & Analytics:** Statistical testing (A/B testing, hypothesis testing), time-series forecasting, conversion modeling, and pricing optimization engines[cite: 1].
+* 🔬 **Current Focus:** LLM evaluation frameworks (DeepEval, RAGAS) with LLM-as-a-judge workflows and autonomous research agents (CrewAI)[cite: 2].
+* ⚙️ **Core Engineering:** Semantic vector search (FAISS), guardrail enforcement, asynchronous FastAPI services, and statistical modeling[cite: 1, 2].
+* 📈 **Analytics & ML:** Conversion rate prediction, ROAS forecasting, and price elasticity optimization engines[cite: 1].
 * 🎓 **Education:** Master of Business Administration (2024–2026) & B.Sc. Computer Science[cite: 1, 2].
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-* **Languages:** Python, SQL, JavaScript/TypeScript[cite: 2]
-* **GenAI & Agent Frameworks:** LangChain, LangGraph, CrewAI, LlamaIndex, DeepEval, RAGAS, FAISS, Sentence-Transformers[cite: 2]
-* **LLM APIs:** OpenAI, Google Gemini, Groq (LLaMA 3.3)[cite: 2]
-* **ML & Statistics:** Scikit-Learn, PyTorch, XGBoost, Statsmodels, SciPy, Pandas, NumPy, A/B Testing[cite: 1, 2]
-* **Backend & DevOps:** FastAPI, Django REST Framework, PostgreSQL, SQLAlchemy, Docker, Docker Compose, Pytest[cite: 1, 2]
+* **Languages & Core:** Python, SQL, JavaScript/TypeScript[cite: 2]
+* **GenAI & Agents:** LangChain, LangGraph, CrewAI, LlamaIndex, FAISS, Sentence-Transformers, DeepEval, RAGAS[cite: 2]
+* **LLM Integrations:** OpenAI API, Google Gemini API, Groq (LLaMA 3.3)[cite: 2]
+* **Machine Learning & Stats:** Scikit-Learn, PyTorch, XGBoost, Statsmodels, SciPy, A/B Testing, Time-Series[cite: 1, 2]
+* **Backend & DevOps:** FastAPI, Django REST Framework, PostgreSQL, SQLite, SQLAlchemy, Docker, Docker Compose, Pytest[cite: 1, 2]
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Featured Projects
 
-* **[Enterprise LLM Evaluation & Safety Platform](https://github.com/Surendra571/llm-eval-safety-platform):** Asynchronous evaluation backend using FastAPI, PostgreSQL, DeepEval, and RAGAS with LLM-as-a-judge workflows[cite: 2].
-* **[Graph-Based LLM Query System](https://github.com/Surendra571/Graph-Based-Data-Modeling-and-LLM-Query-System):** Ingests structured business data into graph representations and translates natural language into verified SQL via Groq API[cite: 2].
-* **[Multi-Agent Research Assistant](https://github.com/Surendra571/multi-agent-researcher):** Collaborative agent system utilizing CrewAI and Tavily Search API to autonomously research and compile structured reports[cite: 2].
-* **[Digital Advertising Analytics & Conversion Prediction](https://github.com/Surendra571/digital-advertising-analytics):** End-to-end platform processing 100K+ campaign events with statistical A/B testing, ROAS forecasting, and budget allocation engines[cite: 1].
+* **[Enterprise LLM Evaluation & Safety Platform](https://github.com/Surendra571/llm-eval-safety-platform)**: Containerized asynchronous FastAPI & PostgreSQL backend measuring hallucination, bias, toxicity, and RAG quality using DeepEval, RAGAS, and Gemini as judge[cite: 2].
+* **[Graph-Based LLM Query System](https://github.com/Surendra571/Graph-Based-Data-Modeling-and-LLM-Query-System)**: Ingests structured business data as graph models, translating natural language queries to SQL via Groq LLaMA 3.3 with schema-aware output constraints[cite: 2].
+* **[Multi-Agent Research Assistant](https://github.com/Surendra571/multi-agent-researcher)**: Multi-agent pipeline using CrewAI and Tavily Search API coordinating live data retrieval and synthesis into structured reports[cite: 2].
+* **[Digital Advertising Analytics Platform](https://github.com/Surendra571/digital-advertising-analytics)**: End-to-end platform processing 100K+ events with two-proportion z-tests, Gradient Boosting conversion modeling (R² 0.939), and ROAS forecasting[cite: 1].
+* **[Pricing Optimization Analytics (PriceSense)](https://github.com/Surendra571/pricing_optimization_project)**: SKU-level price elasticity modeling and quadratic revenue curve estimation using Scikit-Learn and SQLite[cite: 1].
+
+---
+
+### 📜 Certifications
+
+* **Oracle Cloud Infrastructure (OCI)** Generative AI Professional[cite: 2]
+* **Microsoft** Azure AI Essentials Professional Certificate[cite: 2]
+* **Snowflake** Generative AI Professional Certificate[cite: 2]
+* **DeepLearning.AI** Generative AI with LLMs[cite: 2]
