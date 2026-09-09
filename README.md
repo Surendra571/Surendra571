@@ -1,245 +1,371 @@
 <div align="center">
 
-# Hi, I'm Kuruva Surendra Kumar 👋
+# 👋 Hey, I'm Surendra Kumar
 
-### Software & ML Engineer | AI/ML Engineer | Data Scientist
+### AI Engineer • ML Engineer • Software Engineer
 
-**LLMs • RAG • Multi-Agent Systems • Computer Vision • Predictive ML • Quant Analytics • Backend Engineering**
+**I turn real-world problems into intelligent, deployable software.**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/surendra571">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://surendra571.itsfolio.tech">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:kuruvasurendra05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+`LLMs` • `RAG` • `AI Agents` • `Machine Learning` • `Computer Vision` • `Backend Systems`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;LLMs%2C+RAG+%26+Multi-Agent+Applications;Computer+Vision+%26+Multimodal+AI;Predictive+ML+%26+Quantitative+Analytics;Scalable+Backend+Systems+with+Python+%26+FastAPI" alt="Typing SVG" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Surendra571&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surendra571&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="48%" />
-</p>
+<a href="https://www.linkedin.com/in/surendra571">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://surendra571.itsfolio.tech">
+<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<a href="mailto:kuruvasurendra05@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+AI+Systems+That+Actually+Work;LLMs+%7C+RAG+%7C+Agents+%7C+ML;Turning+Models+Into+Products;APIs+%7C+Databases+%7C+Evaluation+%7C+Deployment;Learn+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve">
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🧠 What I Do
 
-I'm a **Software & ML Engineer / AI Engineer / Data Scientist** focused on building practical AI systems that solve real-world problems.
+I build **AI-powered software systems**, not just models.
 
-My work sits at the intersection of:
+My projects usually combine:
 
-* 🤖 **Generative AI & LLM Applications**
-* 🔎 **RAG & Semantic Search**
-* 🧠 **Multi-Agent Systems**
-* 👁️ **Computer Vision & Multimodal AI**
-* 📊 **Predictive Machine Learning**
-* 📈 **Quantitative & Financial Analytics**
-* ⚙️ **Backend & API Engineering**
+```text
+Real Problem
+    ↓
+Data
+    ↓
+ML / LLM / RAG
+    ↓
+Business Logic
+    ↓
+API + Database
+    ↓
+Evaluation
+    ↓
+Testing
+    ↓
+Deployment
+    ↓
+Monitoring & Improvement
+```
 
-I enjoy taking a problem from **idea → architecture → implementation → testing → deployment**.
+I'm especially interested in the space where **AI meets software engineering**.
 
-I'm particularly interested in building AI systems that are not just demos, but have clear workflows, evaluation, observability, reliability, and real business value.
+That means thinking about:
 
----
-
-## 🔥 Current Focus
-
-* Building production-oriented **LLM and RAG applications**
-* Designing **multi-agent workflows** with tool use and orchestration
-* Exploring **LLM evaluation, safety and guardrails**
-* Developing **multimodal AI and computer vision systems**
-* Building scalable APIs with **FastAPI and Django**
-* Working on **predictive ML, experimentation and quantitative analytics**
-* Improving AI systems through **testing, evaluation and reproducible pipelines**
-
----
-
-## 🛠️ Technical Stack
-
-### 🤖 Generative AI & Agents
-
-**LangChain • LangGraph • CrewAI • LlamaIndex • RAG • FAISS • Sentence Transformers • DeepEval • RAGAS**
-
-### 🧠 LLMs & AI APIs
-
-**OpenAI • Google Gemini • Groq • LLaMA**
-
-### 👁️ Computer Vision & Multimodal AI
-
-**PyTorch • OpenCV • CNNs • ResNet • Siamese Networks • Embeddings • Image/Video Processing**
-
-### 📊 Machine Learning & Statistics
-
-**Scikit-learn • XGBoost • PyTorch • Statsmodels • SciPy • Feature Engineering • A/B Testing • Time Series • Predictive Modeling**
-
-### 📈 Analytics & Quant
-
-**Financial Analytics • Price Elasticity • ROAS Forecasting • Conversion Prediction • Risk Analytics • Statistical Modeling**
-
-### ⚙️ Backend Engineering
-
-**Python • FastAPI • Django REST Framework • PostgreSQL • SQLite • SQLAlchemy • REST APIs**
-
-### 🚀 DevOps & Engineering
-
-**Docker • Docker Compose • Git • GitHub • Linux • Pytest • CI/CD**
+* Can the model be evaluated?
+* What happens when the model fails?
+* How do we keep humans in control?
+* How does the system scale?
+* How do we protect user data?
+* How do we monitor the system after deployment?
 
 ---
 
-## 🏆 Featured Projects
+# 🚀 Things I'm Building
 
-### 📊 Multi-Asset Quantitative Analytics & GenAI Platform
+### 🤖 Intelligent AI Applications
 
-An enterprise-oriented quantitative analytics platform for asset-management use cases.
+LLM applications, RAG pipelines, AI agents, multimodal systems and AI copilots.
 
-* Multi-asset market data processing
-* Risk-matrix engineering
-* Benchmark/trend forecasting
-* Quantitative analytics
-* GenAI-assisted analysis
+### ⚙️ Backend Systems
 
-🔗 [View Project](https://github.com/Surendra571/Multi-Asset_Quantitative_Analytics-GenAI_Platform)
+APIs, asynchronous workflows, databases, authentication, real-time systems and business logic.
 
----
+### 📊 Machine Learning
 
-### 🎥 ClipGenius — Multimodal Video Summarizer
+Predictive models, experimentation, time-series analysis, feature engineering and quantitative analytics.
 
-A privacy-focused multimodal AI pipeline designed to process video locally.
+### 🛡️ Reliable AI
 
-* Video processing
-* Audio extraction
-* Speech/transcript processing
-* Multimodal summarization
-* Local-first architecture
-
-🔗 [View Project](https://github.com/Surendra571/video-summarizer)
+Evaluation, guardrails, observability, human-in-the-loop workflows and failure handling.
 
 ---
 
-### 🔬 Multi-Agent Research Assistant
+# ⭐ Featured Work
 
-An autonomous research system built using multiple specialized agents.
+<table>
+<tr>
+<td width="50%">
 
-* CrewAI orchestration
-* Google Gemini
-* Tavily web search
-* Multi-agent research workflow
-* Structured report generation
-* Streamlit interface
+### 🎧 AI Customer Support Platform
 
-🔗 [View Project](https://github.com/Surendra571/multi-agent-researcher)
+**AI-Powered Real-Time Customer Support Platform**
 
----
+A full-stack support platform combining AI with real-world support operations.
+
+**Built with**
+
+`Django` `React` `PostgreSQL` `OpenAI` `RAG` `Docker`
+
+**Includes**
+
+🧠 AI ticket triage
+🤖 Agent Copilot
+📚 Knowledge-grounded RAG
+⏱️ SLA tracking
+👥 Intelligent routing
+⚡ Real-time workflows
+📊 Analytics
+🔐 RBAC & audit logs
+
+<a href="https://github.com/Surendra571/ai-powered-real-time-customer-support-platform">→ Explore Project</a>
+
+</td>
+
+<td width="50%">
+
+### 🧾 InvoiceFlow-AI
+
+**AI-Assisted Accounts Payable Automation**
+
+Built around a simple principle:
+
+> AI understands.
+> Rules decide.
+> Humans handle exceptions.
+
+**Includes**
+
+📄 Invoice extraction
+🔎 PO matching
+🏢 Vendor validation
+♻️ Duplicate detection
+⚠️ Exception handling
+👤 Human review
+📋 Audit trail
+
+<a href="https://github.com/Surendra571/InvoiceFlow-AI">→ Explore Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛡️ LLM Evaluation & Safety Platform
 
-A production-oriented platform for evaluating and monitoring LLM applications.
+A platform for testing whether AI applications are actually behaving correctly.
 
-* Hallucination evaluation
-* Toxicity and bias checks
-* RAG evaluation
-* LLM-as-a-judge workflows
-* DeepEval & RAGAS
-* FastAPI
-* PostgreSQL
-* Docker
-* Persistent audit logging
+**Includes**
 
-🔗 [View Project](https://github.com/Surendra571/llm-eval-safety-platform)
+🎯 Hallucination evaluation
+📚 RAG evaluation
+⚖️ Bias & toxicity checks
+🧑‍⚖️ LLM-as-a-Judge
+📊 Evaluation metrics
+📋 Persistent audit logs
+
+`FastAPI` `PostgreSQL` `DeepEval` `RAGAS` `Docker`
+
+<a href="https://github.com/Surendra571/llm-eval-safety-platform">→ Explore Project</a>
+
+</td>
+
+<td width="50%">
+
+### 🔬 Multi-Agent Research Assistant
+
+A research workflow where specialized AI agents collaborate to investigate a topic and produce structured results.
+
+**Includes**
+
+🧠 Agent orchestration
+🔎 Web research
+🛠️ Tool usage
+🔗 Multi-agent workflows
+📝 Structured reports
+
+`CrewAI` `Gemini` `Tavily` `Python` `Streamlit`
+
+<a href="https://github.com/Surendra571/multi-agent-researcher">→ Explore Project</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💰 InvoiceFlow-AI — Accounts Payable Automation
+# 🧪 Other Projects
 
-An AI-assisted invoice processing workflow built around a simple principle:
+### 🎥 ClipGenius
 
-**AI for understanding → deterministic rules for decisions → humans for exceptions → audit trail for accountability.**
+**Multimodal Video Summarizer**
 
-The system handles:
+Video → Audio → Transcript → Multimodal Understanding → Summary
 
-* Invoice extraction
-* Purchase-order matching
-* Vendor validation
-* Duplicate detection
-* Amount/tolerance checks
-* Exception handling
-* Human-in-the-loop review
-* Audit logging
+`Python` `PyTorch` `OpenCV` `Multimodal AI`
 
-🔗 [View Project](https://github.com/Surendra571/InvoiceFlow-AI)
+<a href="https://github.com/Surendra571/video-summarizer">View Repository →</a>
 
 ---
 
-### 📈 Digital Advertising Analytics Platform
+### 📈 Digital Advertising Analytics
 
-An end-to-end analytics and ML platform for digital advertising.
+**Data → Experimentation → Prediction → Business Decisions**
 
 * 100K+ event processing
 * Conversion prediction
-* Statistical A/B testing
+* A/B testing
 * ROAS forecasting
-* Marketing budget analysis
-* Predictive modeling
+* Marketing analytics
 
-🔗 [View Project](https://github.com/Surendra571/digital-advertising-analytics)
+`Python` `SQL` `Scikit-learn` `XGBoost` `Statistics`
+
+<a href="https://github.com/Surendra571/digital-advertising-analytics">View Repository →</a>
 
 ---
 
 ### 🚚 Real-Time Delivery & Logistics Platform
 
-A high-throughput delivery orchestration and dispatch platform.
+A backend system for delivery orchestration, dispatch and location-aware workflows.
 
-* Django REST Framework
-* Real-time event processing
-* PostgreSQL + PostGIS
-* Redis
-* Celery
-* Dispatch workflows
-* Location-aware logistics
+`Django` `DRF` `PostgreSQL` `PostGIS` `Redis` `Celery` `Docker`
 
-🔗 [View Project](https://github.com/Surendra571/Real-Time-Delivery-Logistics-Platform)
+<a href="https://github.com/Surendra571/Real-Time-Delivery-Logistics-Platform">View Repository →</a>
 
 ---
 
-## 📜 Certifications
+### 📊 Multi-Asset Quantitative Analytics & GenAI Platform
 
-* **Oracle Cloud Infrastructure** — Generative AI Professional
-* **Google Cloud Skills Boost** — Machine Learning on Google Cloud
-* **Qualcomm** — AI Upskilling Certificate
-* **HackerRank** — Python Basic & Intermediate
-* **HackerRank** — SQL Basic & Intermediate
+A quantitative analytics platform combining financial data processing, risk analysis, forecasting and GenAI-assisted insights.
+
+<a href="https://github.com/Surendra571/Multi-Asset_Quantitative_Analytics-GenAI_Platform">View Repository →</a>
 
 ---
 
-## 🎯 What I'm Looking For
+# 🧰 My Toolbox
 
-I'm interested in opportunities involving:
-
-**AI Engineering • ML Engineering • Generative AI • LLM Applications • AI Agents • RAG • Computer Vision • Data Science • Quantitative Analytics • Backend Engineering**
-
-I'm especially interested in teams where I can work on **real-world AI systems from problem definition through deployment and continuous improvement.**
+<table>
+<tr>
+<td><b>AI / GenAI</b></td>
+<td>LLMs · RAG · AI Agents · Multi-Agent Systems · Prompt Engineering · Guardrails</td>
+</tr>
+<tr>
+<td><b>AI Frameworks</b></td>
+<td>LangChain · LangGraph · CrewAI · LlamaIndex · FAISS</td>
+</tr>
+<tr>
+<td><b>ML</b></td>
+<td>Scikit-learn · XGBoost · PyTorch · Statistics · Time Series</td>
+</tr>
+<tr>
+<td><b>Computer Vision</b></td>
+<td>OpenCV · CNNs · ResNet · Siamese Networks · Embeddings</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Python · Django · DRF · FastAPI · SQLAlchemy · REST APIs</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>PostgreSQL · SQLite · SQL · Pandas · NumPy · PostGIS</td>
+</tr>
+<tr>
+<td><b>Engineering</b></td>
+<td>Docker · Redis · Celery · Git · GitHub Actions · Linux · Pytest</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+# 🧩 How I Think About AI Engineering
+
+I don't want AI to be a black box sitting behind an API.
+
+I want to know:
+
+```text
+                 ┌──────────────┐
+                 │   AI Model   │
+                 └──────┬───────┘
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+      Evaluation     Guardrails    Monitoring
+          │             │             │
+          └─────────────┼─────────────┘
+                        ↓
+                  Business Logic
+                        ↓
+                   Human Review
+                        ↓
+                    Real User
+```
+
+**Good AI engineering = model + software + data + evaluation + reliability.**
+
+---
+
+# 📈 Currently Learning & Building
+
+🔹 Production LLM applications
+🔹 RAG evaluation & retrieval quality
+🔹 AI agent orchestration
+🔹 Multimodal AI
+🔹 LLM safety & guardrails
+🔹 Real-time backend systems
+🔹 ML experimentation
+🔹 Cloud deployment & CI/CD
+🔹 AI observability
+
+---
+
+# 🏆 Certifications
+
+* Oracle Cloud Infrastructure — Generative AI Professional
+* Google Cloud — Machine Learning
+* Qualcomm — AI Upskilling
+* HackerRank — Python
+* HackerRank — SQL
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm open to opportunities in:
+
+**AI Engineering • ML Engineering • Generative AI • LLM Applications • RAG • AI Agents • Backend Engineering • Data Science • Computer Vision**
+
+I'm particularly interested in teams where I can:
+
+**Build → Evaluate → Deploy → Learn → Improve**
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Surendra571&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra571&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendra571&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+If you're working on **AI products, intelligent automation, ML systems, or backend platforms**, I'd love to connect.
 
 **LinkedIn:**
 https://www.linkedin.com/in/surendra571
 
-**GitHub:**
-https://github.com/Surendra571
-
 **Portfolio:**
 https://surendra571.itsfolio.tech
+
+**GitHub:**
+https://github.com/Surendra571
 
 **Email:**
 [kuruvasurendra05@gmail.com](mailto:kuruvasurendra05@gmail.com)
@@ -248,6 +374,8 @@ https://surendra571.itsfolio.tech
 
 <div align="center">
 
-### 🚀 Build • Learn • Evaluate • Improve
+### ⚡ Build things. Break things. Measure them. Make them better.
+
+**Thanks for visiting! ⭐**
 
 </div>
