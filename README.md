@@ -1,235 +1,233 @@
-# Kuruva Surendra Kumar
+# 👋 Hi, I'm Surendra Kumar
 
-<p align="center">
-  <b>AI Engineer | Finance Agents & Automation | LLM Evaluation | Backend Engineering</b><br/>
-  <i>I build reliable AI systems where financial correctness, measurable outcomes, and clean backend engineering matter.</i>
-</p>
+### Backend Engineer | AI Engineer | Finance Automation | LLM Agents
+
+I build reliable backend systems and AI-powered applications, with a focus on financial accuracy, intelligent automation, and production-ready engineering.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/surendra571">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://surendra571.itsfolio.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-6366F1?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF7518?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:ksurendraa1.4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Backend%20Roles-22C55E?style=flat-square" />
 </p>
 
-## 👨‍💻 About
+---
 
-I'm an AI Engineer with an MBA in Finance and a B.Sc. in Computer Science (AI/ML).
+## 🚀 About Me
 
-I build AI-powered financial applications, LLM agents, reconciliation systems, and backend platforms with a focus on financial accuracy, reliability, and production-ready engineering.
+I'm a developer with a background in Computer Science and Finance, interested in building practical software products using backend engineering, AI, and machine learning.
 
-My primary focus areas:
+My interests include:
 
-- **Finance AI & Automation:** Bank reconciliation, invoice processing, payment systems, financial workflows, and accounting automation.
-- **AI Agents & LLMs:** LangGraph, LangChain, structured outputs, RAG, and human-in-the-loop workflows.
-- **Backend Engineering:** Python, FastAPI, Django REST Framework, PostgreSQL, Redis, and Celery.
-- **Reliability & Evaluation:** Deterministic validation, idempotency, automated testing, audit trails, and LLM evaluation.
+- 🤖 **AI Engineering:** LLM applications, AI agents, RAG, and intelligent automation.
+- 💳 **FinTech Engineering:** Financial reconciliation, payment systems, invoice processing, and accounting automation.
+- ⚙️ **Backend Development:** Python, FastAPI, Django REST Framework, PostgreSQL, Redis, and Celery.
+- 🧪 **Engineering Reliability:** Automated testing, deterministic validation, idempotency, audit trails, and LLM evaluation.
 
-I believe AI should assist decision-making, while deterministic business rules enforce correctness, especially in financial systems.
+My engineering philosophy:
 
-**Open to:** AI Engineering, AI/ML, LLM/NLP, Backend Engineering, FinTech AI, and Forward Deployed Engineering roles across India.
+> Let AI handle intelligence. Let deterministic code protect correctness.
 
-## 📈 Results at a Glance
-
-| Project | What it does | Results / Engineering Highlights |
-|---|---|---|
-| **FinBridge** | AI-powered financial reconciliation | 100+ automated tests, deterministic financial verification, multi-tenant architecture |
-| **TokenWise** | LLM context optimization | Compares 5 context strategies, including a trained PyTorch reranker |
-| **LLM Evaluation & Safety Platform** | Evaluates LLM and RAG quality | Async evaluation with PostgreSQL history |
-| **Support Intent Pipeline** | Support classification and escalation | 84.5% accuracy, 0.8455 Macro F1 on 104,730 conversations |
-| **Digital Advertising Analytics** | Conversion prediction and ROAS forecasting | R² 0.939, MAE 4.05 on 100K+ events |
-| **InvoiceFlow AI** | Automated invoice approval | Explainable financial decisions with 30+ tests |
-| **Digital Wallet** | Payments and ledger backend | Double-entry accounting, idempotency, 30+ tests |
-
-## 🚀 Featured Projects
-
-### 💳 [FinBridge — AI Financial Reconciliation Platform](ADD_GITHUB_REPOSITORY_URL)
-
-**AI-powered bank-to-ledger reconciliation with deterministic financial verification.**
-
-Built and deployed a financial reconciliation platform that matches bank statements against ERP ledger exports, using AI for intelligent suggestions and Python for final financial verification.
-
-**Tech Stack:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `LangGraph` `OpenAI` `Docker`
-
-Key engineering features:
-
-- Bank statement ingestion from CSV/PDF and ERP ledger exports in NetSuite, SAP, and QuickBooks formats.
-- Multi-currency reconciliation across USD, EUR, and INR.
-- LangGraph + OpenAI agent suggests matches for messy bank transaction descriptions with confidence scores.
-- **LLM proposes, Python verifies:** AI confidence alone never approves a financial match.
-- Exact Decimal-based financial validation with cent-level checks.
-- Currency isolation, debit/credit direction validation, amount tolerance, and duplicate-match prevention.
-- Accounting-period locks to protect closed financial periods.
-- Maker-Checker approval workflow for exceptions and fee variances.
-- Tamper-evident SHA-256 hash-chained audit trail for every decision.
-- Retry mechanisms and circuit breakers for unreliable external systems.
-- Multi-tenant data isolation and role-based access control.
-- 100+ automated tests, including property-based and tenant-isolation tests.
-
-**Deployment:** Vercel + Render
-
-**Core engineering principle:** AI assists reconciliation; deterministic code protects financial correctness.
+I'm interested in opportunities involving Backend Engineering, AI/ML Engineering, LLM applications, FinTech AI, and Forward Deployed Engineering.
 
 ---
 
-### 🔬 [TokenWise](https://github.com/Surendra571/tokenwise)
+## 🏆 Featured Projects
 
-**LLM token optimization and quality evaluation.**
+### 💳 1. FinBridge — AI Financial Reconciliation
 
-Compares different context strategies and determines how to reduce token consumption without sacrificing answer quality.
+**AI-powered bank-to-ledger reconciliation platform.**
 
-`Python` `PyTorch` `Sentence Transformers` `FAISS` `FastAPI` `MLflow` `Streamlit`
+- Matches bank statements against ERP ledger exports.
+- Uses LangGraph and OpenAI for intelligent transaction matching.
+- Uses deterministic Python validation for financial decisions.
+- Supports multi-currency reconciliation.
+- Includes maker-checker approval workflows.
+- Implements multi-tenant isolation and role-based access.
+- SHA-256 hash-chained audit trails.
+- 100+ automated tests.
 
-- Compares full context, truncation, BM25, dense retrieval, and cross-encoder reranking.
-- Token counting with tiktoken and Hugging Face tokenizers.
-- Quality scoring with Exact Match, Token F1, ROUGE, and LLM-as-Judge.
-- Adaptive token budgeting and experiment tracking.
+**Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · LangGraph · OpenAI · Docker
 
----
+[GitHub Repository](ADD_FINBRIDGE_GITHUB_URL)
 
-### 🛡️ [LLM Evaluation & Safety Platform](https://github.com/Surendra571/llm-eval-safety-platform)
+### 🧠 2. TokenWise — LLM Context Optimization
 
-**Containerized benchmarking and safety monitoring for LLMs and RAG.**
+Compares context retrieval strategies to reduce LLM token consumption while maintaining answer quality.
 
-`Python` `FastAPI` `PostgreSQL` `DeepEval` `RAGAS` `Plotly` `Docker`
+- Full context and truncation strategies.
+- BM25 and dense retrieval.
+- Cross-encoder reranking.
+- Token usage analysis.
+- Exact Match, Token F1, ROUGE, and LLM-as-Judge evaluation.
 
-- Evaluates toxicity, bias, hallucination, faithfulness, and relevance.
-- Concurrent evaluation with asyncio.
-- Dashboard to compare model quality over time.
-- Stores evaluation history in PostgreSQL.
+**Tech:** Python · PyTorch · FAISS · Sentence Transformers · FastAPI · MLflow
 
----
+[GitHub Repository](https://github.com/Surendra571/tokenwise)
 
-### 🎫 [Support Intent Classification & Escalation Pipeline](https://github.com/Surendra571/hiver-ai-support-agent)
+### 🛡️ 3. LLM Evaluation & Safety Platform
 
-**Leak-free NLP pipeline for customer support.**
+Containerized evaluation platform for measuring LLM and RAG application quality.
 
-`Python` `Sentence Transformers` `FAISS` `RAG` `Pytest`
+- Hallucination and faithfulness evaluation.
+- Toxicity and bias detection.
+- Async evaluation pipelines.
+- PostgreSQL evaluation history.
+- Model comparison dashboard.
 
-- SHA-256-audited manifests prove train and test data never overlap.
-- Seven-class intent classification model.
+**Tech:** Python · FastAPI · PostgreSQL · DeepEval · RAGAS · Docker
+
+[GitHub Repository](https://github.com/Surendra571/llm-eval-safety-platform)
+
+### 🎫 4. Support Intent Classification Pipeline
+
+An NLP-based support classification and escalation system.
+
+- Seven-class intent classification.
+- Retrieval-grounded responses.
 - Ten-signal escalation policy.
-- Retrieval-grounded responses with automated tests.
+- SHA-256-audited train/test data separation.
+- 84.5% accuracy and 0.8455 Macro F1 on 104,730 conversations.
 
----
+**Tech:** Python · Sentence Transformers · FAISS · RAG · Pytest
 
-### 📊 [Digital Advertising Analytics](https://github.com/Surendra571/digital-advertising-analytics)
+[GitHub Repository](https://github.com/Surendra571/hiver-ai-support-agent)
 
-**Conversion prediction and budget allocation.**
+### 📊 5. Digital Advertising Analytics
 
-`Python` `SQL` `Scikit-learn` `Streamlit` `Pytest` `Docker`
+Machine learning platform for conversion prediction and advertising budget optimization.
 
-- Two-proportion z-test A/B testing.
-- Gradient Boosting model selection.
-- ROAS forecasting and budget recommendations.
-- 14-test Pytest suite.
+- Conversion prediction.
+- A/B testing using two-proportion z-tests.
+- ROAS forecasting.
+- Budget allocation recommendations.
+- R² 0.939 and MAE 4.05 on 100K+ events.
 
----
+**Tech:** Python · SQL · Scikit-learn · Streamlit · Docker
 
-### 🎤 [MeetMind AI](https://github.com/Surendra571/MeetMind-AI)
+[GitHub Repository](https://github.com/Surendra571/digital-advertising-analytics)
 
-**AI-powered meeting intelligence platform.**
+### 🎤 6. MeetMind AI
 
-`Python` `FastAPI` `React` `PostgreSQL` `LLMs`
+AI-powered meeting intelligence platform.
 
-- Streaming speech-to-text and speaker diarization.
-- Grounded RAG search across meetings.
+- Streaming speech-to-text.
+- Speaker diarization.
+- RAG-powered meeting search.
 - Action-item tracking.
 
----
+**Tech:** Python · FastAPI · React · PostgreSQL · LLMs
 
-### 📄 [PolicyLens AI](https://github.com/Surendra571/policylens-ai)
+[GitHub Repository](https://github.com/Surendra571/MeetMind-AI)
 
-**Insurance PDF assistant.**
+### 📄 7. PolicyLens AI
 
-`Python` `LLMs` `RAG`
+AI-powered insurance document analysis assistant.
 
-- Clause extraction from health, motor, life, and travel policies.
-- Grounded question answering with citations.
-- Plain-language policy explanations.
+- Extracts clauses from insurance documents.
+- Supports health, motor, life, and travel policies.
+- Provides grounded question answering with citations.
+- Explains complex policy terms in simple language.
 
----
+**Tech:** Python · Django · Celery · PostgreSQL · RAG · LLMs
 
-### 🧑‍💻 [AI Communication & Mock Interview Coach](https://github.com/Surendra571/AI-Communication-Mock-Interview-Coach)
+[GitHub Repository](https://github.com/Surendra571/policylens-ai)
 
-**AI-powered interview practice and communication feedback.**
+### 🧾 8. InvoiceFlow AI — Accounts Payable Automation
 
-`TypeScript` `FastAPI` `React` `LLMs`
+Automates invoice extraction, validation, and approval decisions.
 
-- Voice interaction and response evaluation.
-- Structured communication feedback.
-- AI-powered mock interview experience.
-
----
-
-### 🧾 [InvoiceFlow AI — Accounts Payable Agent](ADD_INVOICEFLOW_GITHUB_URL)
-
-**PDF-to-decision financial automation.**
-
-`Python` `LLMs` `pdfplumber` `Streamlit` `SQL`
-
-- Extracts supplier invoice information from PDF documents.
-- Produces explainable APPROVED / REVIEW / REJECTED decisions.
-- Deterministic validation for duplicate invoices, blocked vendors, PO mismatches, currency mismatches, and line-item arithmetic.
-- ±2% PO amount tolerance and 85% minimum extraction confidence.
-- Human review for low-confidence cases.
+- PDF invoice information extraction.
+- Explainable APPROVED / REVIEW / REJECTED decisions.
+- Duplicate invoice and blocked vendor detection.
+- Purchase order and line-item validation.
+- ±2% PO amount tolerance.
+- 85% minimum extraction confidence.
+- Human-in-the-loop review.
 - Separate automated decision and human override audit logs.
 - 30+ automated tests.
 
+**Tech:** Python · LLMs · pdfplumber · Streamlit · SQL
+
+[GitHub Repository](ADD_INVOICEFLOW_GITHUB_URL)
+
+### 💰 9. Digital Wallet — Payment & Ledger Backend
+
+A backend payment system focused on transaction correctness and financial consistency.
+
+- JWT authentication.
+- Wallet-to-wallet transfers.
+- Double-entry accounting.
+- Atomic database transactions.
+- Decimal-based financial calculations.
+- Idempotency keys.
+- Configurable transaction limits.
+- Monitoring and automated tests.
+
+**Tech:** Python · Django REST Framework · PostgreSQL · Redis · Celery · React · Docker
+
+[GitHub Repository](ADD_WALLET_GITHUB_URL)
+
 ---
 
-### 💰 [Digital Wallet — Payments & Ledger Backend](ADD_WALLET_GITHUB_URL)
+## 🛠️ Technical Skills
 
-**Concurrency-safe payment processing and double-entry accounting.**
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
+</p>
 
-`Python` `Django REST Framework` `PostgreSQL` `Redis` `Celery` `React` `Docker`
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
+</p>
 
-- Registration, JWT authentication, bank-account linking, and merchant wallets.
-- Wallet-to-wallet transfers.
-- Double-entry ledger with equal debit and credit entries.
-- Atomic database transactions and Decimal-based financial calculations.
-- Idempotency keys to prevent duplicate transfers.
-- Configurable daily, monthly, and per-transfer limits.
-- CI, Docker, Kubernetes, Prometheus, and Grafana monitoring.
-- 30+ automated tests.
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
-## 🛠️ Tech Stack
+### Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,git,github" />
+</p>
 
-**Languages:**  
-Python • SQL • JavaScript • TypeScript
+### AI & Machine Learning
 
-**Backend:**  
-FastAPI • Django • Django REST Framework • REST APIs • WebSockets • SQLAlchemy • Pydantic
+- OpenAI API, Gemini API, Hugging Face
+- LangChain, LangGraph, CrewAI
+- RAG, Embeddings, FAISS, Qdrant
+- PyTorch, TensorFlow, Scikit-learn
+- DeepEval, RAGAS, MLflow
 
-**AI & Agents:**  
-OpenAI API • Gemini API • LangGraph • LangChain • CrewAI • Hugging Face • PyTorch • Scikit-learn • TensorFlow
+### Engineering & Testing
 
-**LLM & Retrieval:**  
-RAG • Embeddings • FAISS • Qdrant • Sentence Transformers • Structured Outputs
+- REST API Design
+- Pytest and Property-Based Testing
+- Docker and CI/CD
+- GitHub Actions
+- Redis and Celery
+- Audit Trails and Idempotency
 
-**Finance Automation:**  
-Bank Reconciliation • Double-Entry Ledgers • Invoice Processing • Payment Systems • Maker-Checker Controls • Audit Trails
+---
 
-**Evaluation:**  
-DeepEval • RAGAS • LLM-as-Judge • MLflow
+## 📊 GitHub Statistics
 
-**Databases & Queues:**  
-PostgreSQL • SQLite • Redis • Celery • DuckDB
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Surendra571&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra571&layout=compact&theme=vue-dark&hide_border=true" />
+</p>
 
-**Engineering & Testing:**  
-Docker • Git • GitHub Actions • Pytest • Property-Based Testing • CI/CD
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Surendra571&theme=vue-dark&hide_border=true" />
+</p>
 
-**Frontend:**  
-React • TypeScript • Streamlit
-
-**Cloud:**  
-AWS • Azure • Oracle Cloud • Vercel • Render
+---
 
 ## 🎓 Education & Certifications
 
@@ -239,31 +237,26 @@ St. John's College of Engineering and Technology | 2024–2026
 **B.Sc. Computer Science (AI/ML Specialization)**  
 Vyshnavi Degree College | 2019–2023
 
-**Certifications:**
+### Certifications
 
 - Oracle Cloud Infrastructure — Generative AI Professional
 - AWS — Cloud Practitioner
 - DeepLearning.AI — Generative AI with LLMs
 - HackerRank — SQL and Python (Intermediate)
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surendra571&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra571&layout=compact&theme=vue-dark&hide_border=true" width="48%" />
-</p>
-
 ---
 
-## 📫 Connect
+## 🤝 Let's Connect
+
+I'm interested in connecting with engineers, founders, recruiters, and teams working on backend systems, AI applications, and financial technology.
 
 <p align="center">
+  <a href="https://github.com/Surendra571">GitHub</a> •
   <a href="https://www.linkedin.com/in/surendra571">LinkedIn</a> •
   <a href="https://surendra571.itsfolio.tech/">Portfolio</a> •
-  <a href="https://github.com/Surendra571">GitHub</a> •
   <a href="mailto:ksurendraa1.4@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <i>Build. Verify. Ship. Measure. Improve.</i>
+  <b>Build. Verify. Ship. Measure. Improve.</b>
 </p>
